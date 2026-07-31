@@ -1,0 +1,5 @@
+<MouseParallax>
+
+<DashboardCard/>
+
+</MouseParallax>
